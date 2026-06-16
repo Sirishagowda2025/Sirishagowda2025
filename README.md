@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Sirisha D</h1>
 <h3 align="center">AI Product & Data Analyst | I build working AI prototypes, not just slide decks</h3>
 
-- 🎓 Information Science Engineering graduate (2026) 
-- 🔭 Currently building **AI Calling Agent** — autonomous voice agent with multilingual conversation support
+- 🎓 Information Science Engineering graduate (2026) | CGPA 8.39
+- 🎙️ Built and shipped an **AI Calling Agent** — autonomous voice agent with multilingual conversation support (GPT-4o + ElevenLabs + Deepgram)
 - 🌱 Currently deepening **LLM prompt engineering, hybrid ML stacking, Power BI, and product analytics**
 - 📰 Built **NewsRadar** — a local-LLM news intelligence pipeline that scores 100+ sources for relevance, zero API cost
 - 🛒 Built an **AI product recommendation engine** combining 4 ML techniques (content-based, collaborative filtering, SVD, hybrid) deployed live on Streamlit
-- 🏥 Built **MedMap** — a rural healthcare provider locator focused on provider data accuracy
-- 📄 Published researcher — *"AI-Driven Conversational Voice Agent for Scalable Call Automation"* on Zenodo, under review at IJRASET & IRJMETS
+- 📄 Published researcher — paper on **Zenodo**: *"AI-Driven Conversational Voice Agent for Scalable Call Automation"*
 - 🏆 National Top 50, All-India Women Start-a-thon 2025–26 · Top 10 National Finalist, AIroThon 2025 (BFSI Track)
 - 👯 Looking to collaborate on **AI product prototypes, LLM workflows, and analytics dashboards**
 - 🤝 Looking for help with **scaling AI workflows into production-grade deployments**
@@ -24,7 +23,6 @@
 - 🛒 **[AI Product Recommendation & Analytics System](https://github.com/Sirishagowda2025/AI-Based-Product-Recommendation-Analytics-System)** — 4 ML techniques, hybrid stacking, live Streamlit dashboard
 - 📰 **[NewsRadar](https://github.com/Sirishagowda2025/NewsRadar)** — local-LLM news intelligence monitor, zero API cost
 - 🎙️ **[AI Voice Agent](https://github.com/Sirishagowda2025)** — GPT-4o + ElevenLabs + Deepgram autonomous calling agent, published research
-- 🏥 **[MedMap](https://github.com/Sirishagowda2025/MedMap-Rural-Healthcare-Locator)** — rural healthcare provider locator
 - 📊 **[Retail Performance & Profitability Analysis](https://github.com/Sirishagowda2025/Retail-performance-analysis)** — SQL + regression model on 9,994 transactions
 - 🗂️ **[OpsFlow](https://github.com/Sirishagowda2025/opsflow-pm-dashboard)** — live AI-powered project operations dashboard
 
