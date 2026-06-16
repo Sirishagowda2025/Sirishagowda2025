@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sirisha D</h1>
 <h3 align="center">AI Product & Data Analyst | I build working AI prototypes, not just slide decks</h3>
 
-- 🎓 Information Science Engineering graduate (2026) | CGPA 8.39
 - 🎙️ Built and shipped an **AI Calling Agent** — autonomous voice agent with multilingual conversation support (GPT-4o + ElevenLabs + Deepgram)
 - 🌱 Currently deepening **LLM prompt engineering, hybrid ML stacking, Power BI, and product analytics**
 - 📰 Built **NewsRadar** — a local-LLM news intelligence pipeline that scores 100+ sources for relevance, zero API cost
